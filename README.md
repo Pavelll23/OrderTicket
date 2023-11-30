@@ -5,4 +5,4 @@
 3. Задокументировать найденные дефекты
 
 ## Форма для оформления заказа билета
-(https://github.com/Pavelll23/OrderTicket/blob/main/u920152e.beget.tech-index.html%202023-11-30%2009-55-04.png)
+![Screnshot](https://github.com/Pavelll23/OrderTicket/blob/main/u920152e.beget.tech-index.html%202023-11-30%2009-55-04.png)
